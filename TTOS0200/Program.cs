@@ -10,7 +10,6 @@ namespace TTOS0200
     {
         static void Main(string[] args)
         {
-            muutos  
         }
     }
 }
