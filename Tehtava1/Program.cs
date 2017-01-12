@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ *Tee ohjelma, joka tulostaa käyttäjän antamaa lukua (1, 2 tai 3) vastaavan luvun sanana (yksi, kaksi tai kolme). 
+ *Jos käyttäjä syöttää jonkin muun luvun, tulee näytölle tulostaa teksti: "joku muu luku".
+ *Jere Liikka 10.1.2016 
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

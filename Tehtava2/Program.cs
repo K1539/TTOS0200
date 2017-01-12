@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * Tee ohjelma, jossa annetaan oppilaalle koulunumero seuraavan taulukon mukaan (pistemäärä kysytään ja ohjelma tulostaa numeron)
+ * Jere Liikka 10.1.2017
+ * */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

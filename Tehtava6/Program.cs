@@ -16,8 +16,7 @@ namespace Tehtava6
             Console.Write("Anna matka > ");
             int KuljettuMatka = int.Parse(Console.ReadLine());
             double BensanKulutus = (KulutusKm * KuljettuMatka);
-
-            Console.WriteLine("Bensaa kuluu " + BensanKulutus + " litraa, kustannus " + (BensanKulutus * BensanHintaLtr) + " euroa");
+            Console.WriteLine("Bensaa kuluu {0:0.00} litraa, kustannus {1:0.00} euroa.", BensanKulutus, (BensanKulutus * BensanHintaLtr));
         }
     }
 }

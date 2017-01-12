@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*Tee ohjelma, joka näyttää annetun sekuntimäärän tunteina, minuutteina ja sekunteina. 
+ * Aikamääre sekuntteina kysytään käyttäjältä.
+ * Jere Liikka 10.1.2017
+ * */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

@@ -11,12 +11,22 @@ namespace Tehtava9
         static void Main(string[] args)
         {
             int AnnettuLuku = 1;
+            int[] Luvut = new int[9999];
+            int j = 0;
+            int SummaLuku = 0;
 
             while (AnnettuLuku != 0)
             {
-                Console.WriteLine("Anna luku > ");
+                Console.Write("Anna luku > ");
                 AnnettuLuku = int.Parse(Console.ReadLine());
+                Luvut[j] = AnnettuLuku;
+                j++;
             }
+            for (int i = 0; i < j; i++)
+            {
+                SummaLuku = SummaLuku + Luvut[i];
+            }
+            Console.WriteLine("Lukujen summa on {0}", SummaLuku);
         }
     }
 }

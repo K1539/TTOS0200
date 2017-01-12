@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refaktorointi_1", "Refaktor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refaktorointi", "Refaktorointi_2\Refaktorointi.csproj", "{FEEDFCDD-0F89-478A-A37B-53AC489D39D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava10-kesken", "Tehtava10\Tehtava10-kesken.csproj", "{47D9017C-B2B2-41E8-B564-F4F36710A6B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{FEEDFCDD-0F89-478A-A37B-53AC489D39D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEEDFCDD-0F89-478A-A37B-53AC489D39D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEEDFCDD-0F89-478A-A37B-53AC489D39D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D9017C-B2B2-41E8-B564-F4F36710A6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D9017C-B2B2-41E8-B564-F4F36710A6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D9017C-B2B2-41E8-B564-F4F36710A6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D9017C-B2B2-41E8-B564-F4F36710A6B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
