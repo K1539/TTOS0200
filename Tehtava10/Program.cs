@@ -14,7 +14,15 @@ namespace Tehtava10
     {
         static void Main(string[] args)
         {
-            int[] Taulukko = new int[10];
+            int[] Taulukko = { 1, 2, 33, 44, 55, 68, 77, 96, 100 };
+
+            for (int i = 0; i < 9; i++)
+            {
+                if (Taulukko[i] % 2 == 0)
+                {
+                    Console.WriteLine("HEP");
+                }
+            }
         }
     }
 }

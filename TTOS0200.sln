@@ -29,9 +29,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refaktorointi_1", "Refaktor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refaktorointi", "Refaktorointi_2\Refaktorointi.csproj", "{FEEDFCDD-0F89-478A-A37B-53AC489D39D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava10-kesken", "Tehtava10\Tehtava10-kesken.csproj", "{47D9017C-B2B2-41E8-B564-F4F36710A6B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava10", "Tehtava10\Tehtava10.csproj", "{47D9017C-B2B2-41E8-B564-F4F36710A6B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava11", "Tehtava11\Tehtava11.csproj", "{268D6AFE-4A16-4C59-8035-F3E90D4A79AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava12", "Tehtava12\Tehtava12.csproj", "{B0EA5642-8717-4EFD-8616-B5676A048442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava13", "Tehtava13\Tehtava13.csproj", "{87FBB88F-F31B-4F2C-9EE3-C00D5603DA5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava14", "Tehtava14\Tehtava14.csproj", "{09C2BA8A-F3AE-4E38-A8C7-23E1D4953EAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +105,18 @@ Global
 		{268D6AFE-4A16-4C59-8035-F3E90D4A79AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{268D6AFE-4A16-4C59-8035-F3E90D4A79AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{268D6AFE-4A16-4C59-8035-F3E90D4A79AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EA5642-8717-4EFD-8616-B5676A048442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EA5642-8717-4EFD-8616-B5676A048442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EA5642-8717-4EFD-8616-B5676A048442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EA5642-8717-4EFD-8616-B5676A048442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87FBB88F-F31B-4F2C-9EE3-C00D5603DA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FBB88F-F31B-4F2C-9EE3-C00D5603DA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FBB88F-F31B-4F2C-9EE3-C00D5603DA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FBB88F-F31B-4F2C-9EE3-C00D5603DA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C2BA8A-F3AE-4E38-A8C7-23E1D4953EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C2BA8A-F3AE-4E38-A8C7-23E1D4953EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C2BA8A-F3AE-4E38-A8C7-23E1D4953EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C2BA8A-F3AE-4E38-A8C7-23E1D4953EAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

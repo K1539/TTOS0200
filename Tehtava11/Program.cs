@@ -22,18 +22,19 @@ namespace Tehtava11
     {
         static void Main(string[] args)
         {
-            int k = 1;
+            int Kierrosluku = 1;
             Console.WriteLine("Anna luku > ");
             int Luku = int.Parse(Console.ReadLine());
 
             for (int i = 1; i <= Luku; i++)
             {
-                for (int j = 1; j <= k; j++)
+                for (int j = 1; j <= Kierrosluku; j++)
                 {
                     Console.Write("*");
                 }
-                Console.Write("*");
+                
                 Console.WriteLine("");
+                Kierrosluku++;
             }
         }
     }
