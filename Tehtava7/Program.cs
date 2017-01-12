@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * Tee ohjelma, joka näyttää onko annettu vuosi karkausvuosi. Vuosiluku kysytään käyttäjältä.
+ * Jere Liikka 11.1.2017
+ * */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

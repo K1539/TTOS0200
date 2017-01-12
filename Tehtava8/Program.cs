@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*Tee ohjelma, joka kysyy käyttäjältä 3 kokonaislukua ja tulostaa niistä suurimman.
+ * Jere Liikka 11.1.2017
+ * */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
